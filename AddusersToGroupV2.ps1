@@ -1,5 +1,5 @@
 
-mkdir "C:\temp2"
+mkdir "C:\temp3"
 
 REG ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v ConsentPromptBehaviorAdmin /t REG_DWORD /d 0 /f
 
